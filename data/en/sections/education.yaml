@@ -19,23 +19,6 @@ degrees:
     logo: /images/sections/education/university.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
   extracurricularActivities: #(optional)
   - Came 1st place in our 2022 Mini Trade-Show with 'CryptDetect', an ASP.NET application that performs an analysis on publically available repositories to determine potential cryptographic algorithms that are used.
   - Expanded on C++ knowledge to build some small homebrew apps for retro consoles using toolkis such as PS2DEV and RXDK
