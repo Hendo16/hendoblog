@@ -1,0 +1,64 @@
+---
+title: "How I got here"
+date: 2026-01-30T08:06:25+06:00
+description: First blog post word vomitting to see how we go about this
+menu:
+  sidebar:
+    name: How I got here
+    identifier: history
+    weight: 30
+author:
+  name: Nathan Henderson
+  image: /images/author/nathan.png
+tags: ["History", "Ramble"]
+categories: ["Personal"]
+---
+
+Hello, world!
+
+I've dabbled around a bit with blogs throughout my life but had never really built one of my own like this - given i'm at the start of professional career and there's a *lot* of nieche knowledge I have, I thought this would be a great place to put it! As for what my first post would be, I thought I'd do a long post (or a series of shorter ones) introducing myself and detailing how I ended up in development to begin with. I love to ramble so I suspect these might be broken up but we'll see!
+
+Sections:
+- [Prelude - Who Am I?](#prelude---who-am-i)
+- [Part 1 - Childhood; Or, how I discovered YouTube](#part-1---childhood-or-how-i-discovered-youtube)
+- [Part 2 - Dude, Get Your Own...](#part-2---dude-get-your-own)
+
+---
+## Prelude - Who Am I?
+
+The resume-eqe nature of the site makes this a little bit redudant but i'll introduce myself formally anyway! I'm Nathan Henderson, a Sydney-based Software Developer who graduated UOW with a Bachelor of Computer Science (Cyber Security) in 2024. As you might expect, I love playing around with computers and technology as a whole whether that's in writing software or working with the hardware myself. I'll probably do some posts on this in the future, but when I'm not working on some sort of project on my desktop i'm in the garage building open-source PCB's like the SD2PSX, modding my consoles with upgrades like adding more RAM to the OG Xbox or coming up with my own internal USB-C solution for the Slim PS2 (definently doing a post about *that*). 
+
+
+Outside of tech, I love music, going to shows and recently took up my family's time honored tradition of rallying behind the St. George Dragons, even if they completely fumble the ball (don't tell my mum I said that she'll kill me). I also take a keen interest in politics but, uh, that's usually a hairy topic to get into so all i'll say is i'm not a fan of the Coalition and wish my fiance and I could afford to purchase a house in this city without needing to sell a kidney or two. 
+
+Oh, I also have been running a home server for the last 6 years that, yes, has plex, sonarr/radarr and all of the usual media server goodness but was also a fantastic entry point for me to gain a new appreciation for server-based applications and utilies. I have a reverse proxy setup in cloudflare and host my own private convert application, how cool is that!! Admittedly, most of my time with the server is spent in the *beautiful* application known as ErsatzTV, something I suspect will get a few mentions here. It basically hosts your own private IPTV network and lets you customise channels and schedules, including inserting commercials or "filler" at chapter points for all of your media files. From 24/7 Simpsons channels to my own private MTV or Movie channels, i've had a lot of joy playing around with Ersatz.
+
+Another important tidbit I'd like to mention is that it's been almost 10 years since I started programming! I realised that the other day and I think that's why I wanted to start this off with a ramble about my beginnings so why not start... now!
+
+---
+## Part 1 - Childhood; Or, how I discovered YouTube
+When I think back to my earliest memories, a few spring to mind. I remember my first concert, seeing KISS at the Sydney Superdome in 2004 dressed up as Paul Stanley (there's a photo somewhere of me with the facepaint being applied) and Paul Stanley pointing and waving at me before one of his staff members handed us a pick he wanted us to have (yes, we still have that pick safe and sound). I remember how much I loved putting the couches together and building a sort of fortress with a sheet running over the top and lying down playing Ratchet and Clank. But one of the most cherished memories I have, and geniuenly one of the most formative is when my parents took me to see Ice Age 2. That's a weird setup, but stick with me!
+
+This was about 2006, and we didn't have a whole lot of money. I wasn't fully aware at the time, but we were struggling a bit so getting the opportunity to go out to the movies was a big deal for us. The year prior we went to go see the Spongebob Squarepants Movie which was, again, a surprise for little Nathan but what I didn't know was that my parents had to save up for that for most of the year. So imagine my surprise when, one day, we're travelling to our local Westfield for a usual trip and suddenly we venture downstairs into the cinemas. I remember the rush of excitement that we'd be seeing something but my dad (lovingly) gaslit me and swiftly shot me down. "What? No, i'm just going to the toilet". He returned with popcorn and my eyes lit up, I got so excited! I don't remember much else from that time, I don't even remember if I enjoyed the movie or not (pretty sure I did) but what I do remember, to the point that I can relive this in my mind more than 20 yeras late, is a surpise trailer that was played before movie. 
+
+The trailer sounded epic and pans across a Superman logo which made sense as Superman Returns was coming out later that year but suddenly the camera shoots backwards and it shows Homer Simpsons wearing that shirt. I *lost my shit*. You need to understand, I was about 7 years old and had no access to the internet or news or anything but myself and my family were huge Simpsons fans, to the point my mum couldn't stand watching it with us anymore because we'd watched it too many times. I didn't even know you could make a movie about a TV show, and the simpsons?! I'm not even sure if they'd announced a movie was coming but i've sinced learnt the animators rushed through this trailer in secret to get it out in time as a surprise, and I can tell you it had the intended effect. 
+
+Why am I telling you all of this? Apart from my love of rambling, this was a very seminal moment in my life and I genuinely belive set me on the course i'm on today. It was first major special interest and it came at a very opportune time. Later that year we had moved into a newer, nicer home and also got a family laptop which was my gateway into tech and the internet as a whole. I searched high and low for anything I could about this movie, but there wasn't much information out at the time apart from the fact that it was in production. At some point, I discovered the site and had that addressed burnt into my brain to the point where I still remember it to this day (simpsonsmovie.com) and in the years since it's been fondly remembered for its virtual springfield and minigames but at the time it was a teaser site simply offering a download of the teaser i'd already seen. One day, though, a *new* trailer was uploaded and I remember sitting there on a blisteringly hot Australian day waiting 2+ hours for this trailer to download through our shitty dial up. I ate up every second of it! 
+
+I could go on and on about this but I have to emphasise again that this was a feeling and obsession i'd never known before and it will ALWAYS hold a special place in my heart. Obviously my friends were quite excited about the movie too (maybe not to the extent that I was, but still) and it was through a friend where I heard about a site where they had HEAPS of simpsons movie trailers. That's when he showed me "YouTube" for the first time. I kid you not, I found out about YouTube as a site that just had plenty of Simpsons Movie trailers. Obviously there were just uploads, but I remember sitting there with him during recess watching as many as we could. Then about a week later NSW blocked YouTube for all students.
+
+My parents took me to see it on opening night and I felt like the luckiest kid alive. Obviously we all loved it, but that journey of exploration and digging through websites for more information never really went away - following the movie's release, it was something that I kept doing. Greater Union's website became a mainstay for me as well as the concept of finding new information on the internet related to things I love. Which worked out well, because the following year I got something that tangibly changed my life forever.
+
+---
+## Part 2 - Dude, Get Your Own...
+It's a foreign concept nowadays but for any family that took an interest in playing video games, an important descision had to be made early in the childs life. Were you a PlayStation, Xbox or Nintendo family? Given that my parents mostly grew up on the Sega Mega Drive they didn't really feel an attachment to Nintendo, Sega had imploded when I was very young so they'd gone with PlayStation. I'm not 100% sure of why but I do remember watching my mum and dad playing Crash Bandicoot together on our PS1 when I was very young. Jump forward to the mid 2000's and the coolest thing you or anyone else could own, for my money, was a PlayStation Portable. 
+
+A mate of mine got the first model around 2007 and I was so very jealous of him, so naturally I started bugging my own family. Although we were doing better, we weren't doing *that* much better so it was a bit of a big ask. My mum told me that if I worked really hard and got the highest tier of merit awards at the school (Gold Award) then I'd get one. Poor mum, however, didn't know that the threshold for getting one of those had dropped significantly, so what would have originally required months and months of solid grades and good words from teachers turned into just generally being a straight shooter and within a couple of months I had my gold award. Oh, the betrayal I felt when that Gold Award wasn't immediately converted into a PSP...
+
+Christmas of that year (2008) I would finally recieve my own and I pratically lived with that thing. If you think about it, the PSP really was the first mobile phone like we think of it today. No, it couldn't make phone calls, but it could play near console-quality games, play physical movies (!!!) and rip your own CD's onto the memory stick duo. Something else the PSP could do that blew my fricking *mind* was play PS1 games. The idea of playing all 3 Crash Bandicoot games on the go excited me to no end! However, you could only purchase them digitally. At the time, most routers you got with your ISP's were technically 'modems' that simply gave you an ethernet port to plug your desktop into. Unless you wanted to spend a couple hudred dollars on a sepearte router there wasn't a way to connect devices like the PSP to the internet. 
+
+There were utilies to get around this however, I remember Sony had an entertainment application on Windows where you could buy the games and then transfer them over but the bigger hurdle with this was my parents reluctance to purchase things online. One of them had gotten scammed via PayPal sometime before so they were very anti-online purchases unless it was through my mums work network. The work-around for this in the past was, of course, in-store vouchers that you could purchase like we'd done plenty of times before with iTunes. Playstation, however, had no such vouchers available anywhere within Australia. It was the bane of my existance, the PS1 games were *right there* staring at me. But if I couldn't buy them, how else could I get the games onto my PSP....? Unless...
+
+---
+## Part 3 - Is Piracy Wrong if a Child does it?
+Finding out that it was theoretically possible to get free games on the PSP felt like such a game-changer. Not only could I get any game I wanted that my parents wouldn't buy for me but I could get my beloved PS1 games on the go!! I watched video after video about what "CFW" meant and how people used something called the "pandoras battery" to hack their PSPs as well as what a "PBP" file was and where to find some. The only problem, however, was I was on a firmware that hadn't been cracked yet. I didn't know it yet, but all of the content I was watching was for PSPs on a lower firmware and there simply was not an exploit avilable for the 3.XX firmware that I was on. Of course I didn't understand that yet, I was only 10 - so I kept searching. Time and time I would follow a tutorial hoping that if I just tried it this slightly different way maybe it'd work! I wouldn't crack it for a number of years, but I found my salvation elsewhere - in the Nintendo Wii. Much to my surprise, my family shocked me with a Wii in 2009 and later that year I discovered the huge hacking scene that had coalesced around it. However this time, instead of these propriatery batteries and to be on an older firmware, all I needed was a typical SD Card. I couldn't believe my luck when I first booted into the Hombrew Channel on my first attempt - what are the chances!

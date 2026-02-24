@@ -1,0 +1,83 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Bachelor of Computer Science (Cyber Security)
+  icon: fa-university
+  timeframe: 2019-2024
+  institution:
+    name: University of Wollongong
+    url: "#"
+    logo: /images/sections/education/university.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/tech_college.png
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Data Structures and Algorithm
+      achieved: 3.75
+      outOf: 4
+    - name: Network Security
+      achieved: 3.80
+      outOf: 4
+    - name: Operating System
+      achieved: 3.5
+      outOf: 4
+    - name: Artificial Intelligent
+      achieved: 3.75
+      outOf: 4
+  extracurricularActivities: #(optional)
+  - Came 1st place in our 2022 Mini Trade-Show with 'CryptDetect', an ASP.NET application that performs an analysis on publically available repositories to determine potential cryptographic algorithms that are used.
+  - Pellentesque ut fringilla magna.
+
+- name: Diploma of Software Development
+  icon: fa-graduation-cap
+  timeframe: 2018-2018
+  institution:
+    name: TAFE NSW (Petersham)
+    url: "#"
+    logo: /images/sections/education/tafe.png
+    darkLogo: /images/sections/education/tafe-dark.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/university.jpg
+  extracurricularActivities: #(optional)
+  - Created a customised fork of a UWP port of RetroArch for the Xbox that added a custom protocol to allow commands to be passed through on launch.
+  - Developed a UWP application 'forwarder' intended for Xbox One consoles in 'Dev Mode' that launched a specific emulator with a specific game via the custom RetroArch fork.
+  - Created a Windows utility to generate these forwarders with generative metdata and a thumbnail generator, including a built-in image editor that pulled cover art from 3rd party sites based on the ROM name.
+
+- name: Certificate IV in Programming
+  icon: fa-graduation-cap
+  timeframe: 2017-2018
+  institution:
+    name: TAFE NSW (St. George)
+    url: "#"
+    logo: /images/sections/education/tafe.png
+    darkLogo: /images/sections/education/tafe-dark.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/university.jpg
+  extracurricularActivities: #(optional)
+  - Reverse engineered MyMaccas API to build an Android App in Java that allowed multiple accounts to login in order to display a complete list of offers available.
+
+
+- name: Higher School Certificate
+  icon: fa-graduation-cap
+  timeframe: 2011-2016
+  institution:
+    name: Engadine High School
+    url: "#"
+    logo: /images/sections/education/science_college.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/education/science_college.png
+  extracurricularActivities: #(optional)
+  - Self-taught Python, HLS Streaming, Account Authentication and file concatination through building a customised downloader for roosterteeth.com
+  - Built a front-end for the VLC library through tkinter that parsed file metadata and had realtime seeking.

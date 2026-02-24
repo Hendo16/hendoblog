@@ -1,0 +1,25 @@
+# some information about you
+name: "Nathan Henderson"
+nickname: "Hendo"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "G'Day! I'm"
+image: "images/author/nathan.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "nathhendo@hotmail.com"
+  phone: "046661781"
+  github: Hendo16
+  linkedin: nathan-henderson-69012b170
+  stack-overflow:
+    icon: stack-overflow
+    url: "https://stackoverflow.com/users/6330795/hendo16"
+    text: "Hendo16"
+
+# some summary about what you do
+summary:
+  - I am a Developer
+  - I love my home server
+  - I love FFMPEG
+  - I love Game Decompilations
+  - I love to work with some fun projects
+  - I work on open-source projects
