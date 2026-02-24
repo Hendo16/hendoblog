@@ -1,5 +1,5 @@
 # ⚠️ If hosting under a repo path, use full URL (e.g. https://<github_username>.github.io/<repo_name>) or images won’t display correctly
-baseURL: https://Hendo16.github.io
+baseURL: https://Hendo16.github.io/hendoblog
 
 languageCode: bn
 title: "Hendo's Blog"
@@ -106,7 +106,7 @@ params:
       # Share post on different social media
       shareButtons:
         facebook: true
-        twitter: true
+        x: true
         linkedin: true
         reddit: true
         whatsapp: true
