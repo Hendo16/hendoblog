@@ -38,7 +38,7 @@ degrees:
       outOf: 4
   extracurricularActivities: #(optional)
   - Came 1st place in our 2022 Mini Trade-Show with 'CryptDetect', an ASP.NET application that performs an analysis on publically available repositories to determine potential cryptographic algorithms that are used.
-  - Pellentesque ut fringilla magna.
+  - Expanded on C++ knowledge to build some small homebrew apps for retro consoles using toolkis such as PS2DEV and RXDK
 
 - name: Diploma of Software Development
   icon: fa-graduation-cap

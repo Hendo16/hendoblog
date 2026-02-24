@@ -55,21 +55,6 @@ badges:
   url: "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Flearning.servicenow.com%2Flxp%2Fen%2Fpages%2Fjourney-overview%3Fid%3Djourney_overview%26journey_id%3D55f79b4a1b96add013f9a6c1b24bcb30&ved=0CBoQjhxqFwoTCJiD4KOL8ZIDFQAAAAAdAAAAABAI&opi=89978449"
   badge: "https://learning.servicenow.com/Career%20Journey%20Badge_Admin_Default2.svg"
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
-
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
-
-- type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
-  color: orange
-
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
