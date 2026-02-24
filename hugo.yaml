@@ -1,7 +1,7 @@
 # ⚠️ If hosting under a repo path, use full URL (e.g. https://<github_username>.github.io/<repo_name>) or images won’t display correctly
-baseURL: https://Hendo16.github.io/hendoblog
+baseURL: https://hendo16.github.io/hendoblog
 
-languageCode: bn
+languageCode: en
 title: "Hendo's Blog"
 
 # Use Hugo modules to add theme
